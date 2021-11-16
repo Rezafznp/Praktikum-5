@@ -1,0 +1,46 @@
+.header{
+    background-color: yellowgreen;
+    width: 98%;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+.square {
+    width: 25%;
+    height: 230px;
+    margin-top: 35px;
+    margin-left: 1%;
+}
+
+.square-1{
+    background-color: yellow;
+    position: absolute;
+}
+
+.square-2{
+    background-color: yellow;
+    position: absolute;
+    top: 480px;
+}
+
+.rectangle{
+    width: 70.3%;
+    height: 230px;
+}
+
+.rectangle-1{
+    background-color: tomato;
+    position: absolute;
+    left: 28%;
+    bottom: 308px;
+}
+
+.rectangle-2{
+    background-color: blue;
+    position: absolute;
+    left: 28%;
+    bottom: 43px;
+}

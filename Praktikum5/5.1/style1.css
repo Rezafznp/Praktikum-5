@@ -1,0 +1,36 @@
+.box {
+    width: 20%;
+    height: 95%;
+}
+
+.box-1 {
+    background-color: #fbf46d;
+    position: absolute;
+    z-index: 1;
+    top: 3%;
+    left: 2%;
+}
+
+.box-2 {
+    background-color: #e5890a;
+    position: absolute;
+    z-index: 2;
+    top: 3%;
+    left: 27%;
+}
+
+.box-3 {
+    background-color: yellowgreen;
+    position: absolute;
+    z-index: 3;
+    top: 3%;
+    right: 27%;
+}
+
+.box-4 {
+    background-color: turquoise;
+    position: absolute;
+    z-index: 4;
+    top: 3%;
+    right: 2%;
+}

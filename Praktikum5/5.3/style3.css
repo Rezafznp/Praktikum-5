@@ -1,0 +1,54 @@
+.header-1{
+    background-color: yellow;
+    width: 19%;
+    height: 12%;
+    position: absolute;
+    top: 2%;
+    left: 1%;
+}
+
+.header-2{
+    background-color: tomato;
+    width: 78%;
+    height: 12%;
+    position: absolute;
+    top: 2%;
+    right: 1%;
+}
+
+.main-1{
+    background-color: yellowgreen;
+    width: 19%;
+    height: 68%;
+    position: absolute;
+    top: 16%;
+    left: 1%;
+}
+
+.main-2{
+    background-color: grey;
+    width: 58%;
+    height: 68%;
+    position: absolute;
+    top: 16%;
+    left: 21%;
+}
+
+.main-3{
+    background-color: lightskyblue;
+    width: 19%;
+    height: 68%;
+    position: absolute;
+    top: 16%;
+    right: 1%;
+}
+
+.footer{
+    background-color: blue;
+    width: 98%;
+    height: 12%;
+    position: absolute;
+    bottom: 2%;
+    left: 1%;
+
+}
